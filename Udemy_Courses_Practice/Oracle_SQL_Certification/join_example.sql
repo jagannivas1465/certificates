@@ -1,0 +1,1 @@
+SELECT e.name, d.name FROM employees e JOIN departments d ON e.dept_id = d.id;
